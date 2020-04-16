@@ -1,0 +1,9 @@
+第一步：到下面这个网址下载windows版
+https://github.com/microsoftarchive/redis/releases
+第二步：点击 assets ，再点击 Redis-x64-3xx.zip 版本，下载好后，解压文件到指定目录
+第三步：打开cmd，进入到刚才解压到的目录，启动临时服务：redis-server.exe redis.windows.conf  
+(备注：通过这个命令，会创建Redis临时服务，不会在window Service列表出现Redis服务名称和状态，此窗口关闭，服务会自动关闭。)
+也可以把redis目录添加到系统环境中，即不需要输redis.windows.conf，可以直接输redis-server.exe
+
+
+
