@@ -1,0 +1,43 @@
+pycharm激活地址：
+
+http://idea.lanyus.com/
+
+dnspython下址网址：
+
+http://www.dnspython.org/kits
+
+如何在windows下安装dnspython
+
+如果是zip里面，直接执行python setup.py install
+
+图标库（Font Awesome）网址 ：
+
+http://fontawesome.dashgame.com/
+
+实用时，如果你考贝出来不是以fa-开头，请加上fa-
+
+例如：bluetooth-b，实用时，请写 fa-bluetooth-b
+
+如果是xadmin中后台注册实用model_icon中，请写 fa fa-bluetooth-b
+
+xadmin进阶教程：
+
+https://xadmin.readthedocs.io/en/docs-chinese/plugins.html
+
+https://blog.csdn.net/wwwdc1012/article/details/72847423
+
+windows下一些程序下载地址：
+
+Twisted  pywin32
+
+地址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#
+
+进入后，搜索即可获取到对应的whl安装包
+
+ xshell与xftp下载地址：
+
+https://www.netsarang.com/zh/free-for-home-school/
+
+ 获取ip连接地址：
+
+pv.sohu.com/cityjson?ie=utf-8
